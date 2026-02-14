@@ -1,2 +1,2 @@
 # ProjetoTons
-Repositório para gerenciamento do código do projeto da gráfica Tons
+Repositório para gerenciamento do código do site da gráfica Tons
